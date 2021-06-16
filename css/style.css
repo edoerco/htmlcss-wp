@@ -65,6 +65,7 @@ nav li a {
 .banner {
     position: relative;
     color: white;
+    height: 550px;
 }
 
 .banner img {
